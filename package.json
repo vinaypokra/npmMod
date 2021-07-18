@@ -1,0 +1,16 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "Vinay project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "author": "Vinay Pokra",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2"
+  }
+}
